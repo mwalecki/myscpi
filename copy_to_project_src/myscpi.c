@@ -1,6 +1,4 @@
-#include "myscpi_defines.h"
-#include "myscpi.h"
-
+#include "myscpi/myscpi.h"
 #include "common.h"		
 #include "led.h"  	
 #include "motor.h"  
